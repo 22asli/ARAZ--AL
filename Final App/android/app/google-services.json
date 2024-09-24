@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829043611729",
+    "project_id": "arazi-al-app",
+    "storage_bucket": "arazi-al-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829043611729:android:81582d76e96da0bc8f4070",
+        "android_client_info": {
+          "package_name": "com.arazial.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQTxXHKg-hAMKAPWVdiwQze9cRF_ZzKTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
